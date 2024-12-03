@@ -40,7 +40,6 @@ The dataset included:
    - Compared satisfaction and dissatisfaction ratings across services and demographic groups.  
    - Examined correlations between delays and satisfaction levels.
 ## DASHBOARD
-![](service.png)
 ![](dashboard.png)
 
 ## KEY INSIGHTS
