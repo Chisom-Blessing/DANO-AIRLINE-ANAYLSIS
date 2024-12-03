@@ -40,7 +40,8 @@ The dataset included:
    - Compared satisfaction and dissatisfaction ratings across services and demographic groups.  
    - Examined correlations between delays and satisfaction levels.
 ## DASHBOARD
-![](other service(dano).png)
+![](service.png)
+![](dashboard.pdf)
 
 ## KEY INSIGHTS
 1. Returning Passengers Make Up the Majority:  
