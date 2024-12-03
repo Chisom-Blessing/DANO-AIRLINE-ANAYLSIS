@@ -40,7 +40,7 @@ The dataset included:
    - Compared satisfaction and dissatisfaction ratings across services and demographic groups.  
    - Examined correlations between delays and satisfaction levels.
 ## DASHBOARD
-![](DANO airline GITHUB.pdf)
+![]https://github.com/Chisom-Blessing/DANO-AIRLINE-ANAYLSIS/blob/main/Dano%20airline%20GITHUB.pdf)
 
 ## KEY INSIGHTS
 1. Returning Passengers Make Up the Majority:  
