@@ -1,5 +1,5 @@
 # DANO-AIRLINE-ANAYLSIS
-## Product ooerview
+## Product overview
 This capstone project was completed as part of my DIGITALY DRIVE BOOTCAMP ASSESSMENT and focused on analyzing passenger satisfaction data for Dano Airlines. The goal was to understand the key drivers of customer satisfaction and dissatisfaction across various services and identify opportunities to enhance the overall passenger experience.  
    DANO airline is a UK-based airline whose headquarter is in London. The latest passenger survey results came in and the satisfaction rate dipped under 50% for the first time ever. 
 
@@ -38,4 +38,33 @@ The dataset included:
 
 3. Insights Generation:  
    - Compared satisfaction and dissatisfaction ratings across services and demographic groups.  
-   - Examined correlations between delays and satisfaction levels.  
+   - Examined correlations between delays and satisfaction levels.
+
+
+## KEY INSIGHTS
+1. Returning Passengers Make Up the Majority:  
+   - Returning passengers accounted for 81.69%, but **43.45%** were dissatisfied, potentially threatening customer loyalty.  
+	
+2. Delays Impact Passenger Satisfaction:  
+   - Dissatisfied passengers experienced higher delays:  
+     - **Arrival delays**, **Departure delays**
+	
+3. Service Areas with Improvement Opportunities:  
+   - **Inflight Wi-Fi (2.4)**, **ease of online booking (2.55)**, and **food and drinks (2.9)** received the lowest ratings from dissatisfied passengers.  
+   - **Gate location** scored equally low for both satisfied and dissatisfied passengers (**2.9**), suggesting a universal pain point.  
+
+
+## RECOMMENDATIONS
+1. Improve Punctuality:  
+   - Focus on reducing delays, particularly for long-haul flights, as delays strongly impact passenger dissatisfaction.  
+
+2. Enhance Service Quality:  
+   - Address dissatisfaction in key areas such as in-flight Wi-Fi, food and drinks, and online booking processes.  
+
+3. Strengthen Customer Retention:  
+   - Invest in loyalty programs for returning passengers to address their concerns and improve their overall experience.  
+Focus on retaining loyal, returning customers by addressing their concerns and offering targeted loyalty programs.  
+
+## CONCLUSION
+This project provided an opportunity to apply advanced data analytics techniques to a real-world scenario, demonstrating the power of data in uncovering actionable insights. By addressing the identified pain points, Dano Airlines can improve customer satisfaction, strengthen loyalty, and optimize its services.  
+	
