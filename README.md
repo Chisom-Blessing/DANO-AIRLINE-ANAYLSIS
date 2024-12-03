@@ -41,7 +41,7 @@ The dataset included:
    - Examined correlations between delays and satisfaction levels.
 ## DASHBOARD
 ![](service.png)
-![](dashboard.pdf)
+![](dashboard.png)
 
 ## KEY INSIGHTS
 1. Returning Passengers Make Up the Majority:  
